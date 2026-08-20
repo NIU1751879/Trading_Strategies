@@ -25,9 +25,6 @@ A collection of quantitative statistical arbitrage and mean reversion strategies
 └── README.md
 
 ```
-
-*Note: Reorganize paths according to your upload preferences — the structure suggested above makes each strategy self-contained (notebook + report).*
-
 ---
 
 ##  Common Theoretical Framework
